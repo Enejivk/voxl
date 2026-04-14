@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <!-- Background circle -->
+  <circle cx="24" cy="24" r="24" fill="#EAB308"/>
+  <!-- Sound wave / voice lines -->
+  <path d="M24 12v24" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M18 18v12" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M30 18v12" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M12 22v4" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M36 22v4" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+</svg>
